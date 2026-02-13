@@ -16,7 +16,7 @@ Each puzzle:
 
 ## Repository Hierarchy
 
-tv-math-lock/
+math-escape/
 │
 ├── AGENTS.md
 ├── kids/
