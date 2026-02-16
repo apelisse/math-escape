@@ -7,7 +7,7 @@ Build the numerator and denominator first (with addition and multiplication), th
 Solve each expression for A, B, C, and D. Each answer is a single digit (0-9). The TV code is ABCD.
 
 ## Expressions
-- A = $\frac{(2 + 2) * 2}{(3 + 1) * 2} + 1$
-- B = $7 - \frac{(1 + 3) * 2}{(2 + 2) * 2}$
-- C = $\frac{(1 + 3) * 2}{(1 + 1) * 2} + 1$
-- D = $\frac{(2 + 1) * 2}{(1 + 2) * 2} + 3$
+- A = $1 + \frac{2 * (3 + 1)}{(2 + 2) * 2}$
+- B = $7 - \frac{(1 + 3) * 2}{2 * (2 + 2)}$
+- C = $\frac{(2 * 3) + 2}{(3 + 1) * 2} + 2$
+- D = $4 + \frac{(3 + 1) * 2}{(2 * 2) + 4}$
