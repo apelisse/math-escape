@@ -23,7 +23,6 @@ math-escape/
 │   ├── matthew.level
 │   ├── nathan.level
 ├── puzzles/
-│   ├── today/                       # points to current YYYY-MM-DD folder
 │   ├── YYYY-MM-DD/                  # One per day
 │   │   ├── matthew-problem.md
 │   │   ├── matthew-parents.md
@@ -33,7 +32,7 @@ math-escape/
 │   │   └── nathan-feedback.md       # Contains feedback on how the child did on that problem.
 
 Notes:
-- `/puzzles/today/` should reference the current date folder, using a symlink.
+- See `README.md` for the quick link to the most recent puzzle; update it when a new puzzle is created.
 
 ---
 
@@ -99,7 +98,7 @@ When generating a new puzzle:
 3. Create or update:
    - `/puzzles/YYYY-MM-DD/<kid>-problem.md`
    - `/puzzles/YYYY-MM-DD/<kid>-parents.md`
-4. Update `/puzzles/today/` to reference `/puzzles/YYYY-MM-DD/`.
+4. Update the quick link in `README.md` to the new `/puzzles/YYYY-MM-DD/` folder.
 5. Never expose solutions in the problem file.
 
 ---
@@ -115,7 +114,7 @@ When generating a new puzzle:
 3. Create or update:
    - `puzzles/YYYY-MM-DD/<kid>-problem.md`
    - `puzzles/YYYY-MM-DD/<kid>-parents.md`
-4. Update `puzzles/today/` to point to `puzzles/YYYY-MM-DD/` (symlink).
+4. Update the quick link in `README.md` to point to `puzzles/YYYY-MM-DD/`.
 5. Verify each expression manually; each A-D result must be a single digit 0-9.
 6. Keep solutions only in the parents file; hints should be helpful but not revealing.
 
