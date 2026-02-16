@@ -1,7 +1,7 @@
 # Daily TV Code Challenge - Complex Fractions Plus
 
 ## Concept of the Day
-Complex fractions (fractions inside fractions). Simplify the inner fraction first, then divide.
+Complex fractions (fractions inside fractions). Simplify the inner fraction first, then divide. Dividing by a fraction is the same as multiplying by its inverse.
 
 ## Instructions
 Solve each expression for A, B, C, and D. Each answer is a single digit (0-9). The TV code is ABCD.
