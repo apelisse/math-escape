@@ -104,6 +104,30 @@ When generating a new puzzle:
 
 ---
 
+## Assistant Workflows
+
+### Create a new puzzle
+
+1. Gather inputs: target date (YYYY-MM-DD) and child name (matthew or nathan). Ask if missing.
+2. Review context:
+   - `kids/<kid>.level` and `kids/<kid>.md`
+   - Recent puzzles in `puzzles/YYYY-MM-DD/` for that child to avoid repetition
+3. Create or update:
+   - `puzzles/YYYY-MM-DD/<kid>-problem.md`
+   - `puzzles/YYYY-MM-DD/<kid>-parents.md`
+4. Update `puzzles/today/` to point to `puzzles/YYYY-MM-DD/` (symlink).
+5. Verify each expression manually; each A-D result must be a single digit 0-9.
+6. Keep solutions only in the parents file; hints should be helpful but not revealing.
+
+### Update feedback
+
+1. Gather inputs: child name and date. If date is missing, use the most recent `puzzles/YYYY-MM-DD/` that has that child’s files.
+2. Update `puzzles/YYYY-MM-DD/<kid>-feedback.md` with how the child did on the problem and concise lessons learned.
+3. Update `kids/<kid>.level` with actionable takeaways (keep existing format/style).
+4. Preserve existing wording/style in feedback files; keep notes focused and brief.
+
+---
+
 ## Philosophy
 
 The objective is to develop reasoning, precision, and mathematical maturity.
