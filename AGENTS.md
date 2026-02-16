@@ -33,6 +33,7 @@ math-escape/
 
 Notes:
 - See `README.md` for the quick link to the most recent puzzle; update it when a new puzzle is created.
+- `README.md` now lists four direct links: latest Matthew problem/solution and latest Nathan problem/solution.
 
 ---
 
@@ -55,6 +56,8 @@ Each `<kid>-problem.md` must include:
 2. Concept of the day (brief explanation if introducing something new)
 3. Clear instructions (include PEMDAS reminder when relevant)
 4. Four expressions labeled A, B, C, D
+
+Do not add a named label to the "Concept of the day" header in puzzle files.
 
 Each `<kid>-parents.md` must include:
 

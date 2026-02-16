@@ -1,6 +1,7 @@
 # Math Escape
 
-Quick link:
-- Latest puzzle: [puzzles/2026-02-18](puzzles/2026-02-18)
-
-Note: Do not add a named label to the "Concept of the Day" header in puzzle files.
+Quick links:
+- Matthew (latest problem): [puzzles/2026-02-18/matthew-problem.md](puzzles/2026-02-18/matthew-problem.md)
+- Matthew (latest solution): [puzzles/2026-02-18/matthew-parents.md](puzzles/2026-02-18/matthew-parents.md)
+- Nathan (latest problem): [puzzles/2026-02-18/nathan-problem.md](puzzles/2026-02-18/nathan-problem.md)
+- Nathan (latest solution): [puzzles/2026-02-18/nathan-parents.md](puzzles/2026-02-18/nathan-parents.md)
