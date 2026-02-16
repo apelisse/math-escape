@@ -1,4 +1,4 @@
-# Daily TV Code Challenge - Complex Fractions Plus
+# Daily TV Code Challenge
 
 ## Concept of the Day
 Complex fractions (fractions inside fractions). Simplify the inner fraction first, then divide. Dividing by a fraction is the same as multiplying by its inverse.

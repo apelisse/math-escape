@@ -1,4 +1,4 @@
-# Daily TV Code Challenge - Fraction Parts (Easier)
+# Daily TV Code Challenge
 
 ## Concept of the Day
 Build the numerator and denominator first (with addition and multiplication), then divide.
