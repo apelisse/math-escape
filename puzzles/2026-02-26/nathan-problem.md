@@ -7,7 +7,7 @@ When you multiply fractions, look for matching factors you can cancel first. A m
 Solve each expression for A, B, C, and D. Use PEMDAS, and simplify before you multiply when that makes the work easier. Each answer is a single digit (0-9). The TV code is ABCD.
 
 ## Expressions
-- A = $\frac{2 \times 3 \times 5 \times 7}{3 \times 5 \times 7}$
-- B = $\frac{4}{9} \times \frac{3}{2} \times 6$
-- C = $\frac{3}{5} \times \frac{10}{3} \times 1 \frac{1}{2}$
-- D = $\frac{2 \times 3 \times 5}{4 \times 5} \times \frac{8}{3} \times 1 \frac{1}{4}$
+- A = $\frac{2 \times 3 \times 11 \times 5 \times 7 \times 99}{11 \times 3 \times 5 \times 3 \times 7 \times 33}$
+- B = $\frac{4 \times 7}{9 \times 11} \times \frac{3 \times 47}{2 \times 7} \times 6 \times 11 \times \frac{1}{47}$
+- C = $\frac{3}{5} \times \frac{10}{3} \times \frac{8}{23} \times 1 \frac{1}{2} \times 2 \frac{7}{8}$
+- D = $10000 \times \frac{2 \times 3 \times 5}{4 \times 5} \times \frac{8}{3} \times 1 \frac{1}{4} \times \frac{1}{100 \times 100}$
