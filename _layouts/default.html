@@ -26,9 +26,20 @@
       h1, h2, h3 {
         margin-top: 1.5rem;
       }
+      .problem-page ul {
+        padding-left: 1.5rem;
+      }
+      .problem-page li {
+        font-size: 1.35rem;
+        line-height: 1.8;
+        margin: 0.75rem 0;
+      }
+      .problem-page mjx-container[jax="CHTML"] {
+        font-size: 1.15em !important;
+      }
     </style>
   </head>
-  <body>
+  <body class="{% if page.path contains '-problem.md' %}problem-page{% endif %}">
     {{ content }}
   </body>
 </html>
