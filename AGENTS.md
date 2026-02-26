@@ -57,6 +57,8 @@ Each `<kid>-problem.md` must include:
 3. Clear instructions (include PEMDAS reminder when relevant)
 4. Four expressions labeled A, B, C, D
 
+Use `\times` instead of `*` in LaTeX expressions.
+
 Do not add a named label to the "Concept of the day" header in puzzle files.
 
 Each `<kid>-parents.md` must include:
