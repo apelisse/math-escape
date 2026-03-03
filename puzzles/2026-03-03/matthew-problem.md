@@ -17,5 +17,5 @@ answer is a single digit (0-9). The TV code is ABCD.
 ## Expressions
 - A = $\frac{2^4 \times 3^5 \times 5^2}{2^1 \times 3^5 \times 5^2}$
 - B = $\frac{(3^2)^3 \times 2^4}{3^5 \times 2^4}$
-- C = $\frac{3^100}{9^49}$
-- D = $\frac{2^12 \times 3}{2^2 \times 5} \div \frac{2^9 \times 6}{3 \times 10}$
+- C = $\frac{3^{100}}{9^{49}}$
+- D = $\frac{2^{12} \times 3}{2^2 \times 5} \div \frac{2^9 \times 6}{3 \times 10}$
